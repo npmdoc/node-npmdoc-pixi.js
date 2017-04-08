@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/pixi.js.png?downloads=true)](https://www.npmjs.com/package/pixi.js)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-pixi.js/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-pixi.js%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-pixi.js/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-pixi.js/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-pixi.js%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-pixi.js/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-pixi.js/build/screenCapture.npmPackageListing.svg)
 
